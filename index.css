@@ -1,0 +1,16 @@
+
+#containerS {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#liGroup {
+    padding-left: 1rem;
+    padding-top: 2rem;
+}
+
+#exAmount {
+    padding-left:10rem ;
+}
+
