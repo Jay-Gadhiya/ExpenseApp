@@ -1,2 +1,2 @@
 # ExpenseApp
-Expense app is basicall store your all expenses
+Expense app is basically store your all expenses.
